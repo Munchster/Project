@@ -1,2 +1,3 @@
 # Project
-Learning, developing, improving java code
+Main goal : Writting efficient code entirely based on pure java to prodive decent code to new developer.
+Purpose : Learning.
